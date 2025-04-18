@@ -3,12 +3,6 @@
 패럿 데이터사이언스 학회 3조가 수행한 **이미지 분류 모델 개발** 프로젝트입니다.  
 다양한 데이터 전처리와 고급 Augmentation 기법을 적용해 모델의 일반화 성능을 극대화했고, **EfficientNet‑B1** 기반 전이학습을 활용하여 최적의 결과를 얻었습니다.
 
----
-
-## 📂 저장소 구조
-
-. ├── 3조.ipynb # 전체 분석·실험 기록이 담긴 Jupyter Notebook ├── label_table_3조.csv # 클래스 라벨 매핑 정보 CSV ├── train.py # 모델 학습 스크립트 (PyTorch) ├── requirements.txt # 필요한 라이브러리 목록 └── README.md # 이 설명 문서
-
 
 ---
 
